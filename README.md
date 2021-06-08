@@ -14,9 +14,4 @@ Our application will be a web extension that users can install on their browsers
 - Regex
 - Google Colab
 
-#### Web Interface (Chrome Extension)
-- Javascript (Js)
-- HTML / CSS 
 
-#### Android Keyboard
-- Kotlin / XML
